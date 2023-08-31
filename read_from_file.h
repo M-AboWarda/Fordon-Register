@@ -1,0 +1,2 @@
+void readFromFile();
+vehicle * getVehicles(); 

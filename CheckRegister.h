@@ -1,0 +1,1 @@
+int RegisterFull(vehicle *vehicles_list, int vehicles_list_length);

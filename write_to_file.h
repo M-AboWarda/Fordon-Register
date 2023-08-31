@@ -1,0 +1,1 @@
+void writeToFile(vehicle * vehicles, int amount);

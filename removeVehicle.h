@@ -1,0 +1,1 @@
+bool removeVehicle(vehicle *list, int position, int length);
